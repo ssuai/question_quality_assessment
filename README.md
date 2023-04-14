@@ -8,3 +8,8 @@
   * `metadata`: some side information about questions and students  
   * `train_data`: use `train_task_3_4.csv` for training
   * `test_data`: use `quality_response_remapped_public.csv` for validation and `quality_response_remapped_private.csv` for test
+
+## Goal
+* estimate the quality of questions from students responses and other information about questions.
+* calculate the rankings of the questions using the template in `submission/template.csv`
+* save the file as `YOUR_STUDENT_ID.csv` and submit with the report
