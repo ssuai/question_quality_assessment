@@ -1,4 +1,4 @@
-# question_quality_assessment
+# Question quality assessment (QQA)
 
 ## The dataset
 * We will use Task 3 of [Diagnostic Questions competition](https://www.microsoft.com/en-us/research/academic-program/diagnostic-questions/), which was one of the [NeurIPS 2020 Competitions](https://neurips.cc/Conferences/2020/CompetitionTrack).
