@@ -24,3 +24,7 @@
 * Discussion: interpret your findings and discuss implications
 * Conclusion: summarize main findings, provide the main message, discuss future directions
 * References: list of all the sources cited in the report
+
+## References
+* [Instructions and Guide for Diagnostic Questions](https://arxiv.org/abs/2007.12061)
+* [Results and Insights from Diagnostic Questions](https://proceedings.mlr.press/v133/wang21a.html)
