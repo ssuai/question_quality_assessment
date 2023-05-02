@@ -11,5 +11,5 @@
 
 ## Task
 * estimate the quality of questions from students responses and other information about questions.
-* calculate the rankings of the questions using the template in [`submission/template.csv`](.submission/template.csv)
-* save the file as `YOUR_STUDENT_ID.csv` and submit with the report
+* calculate the rankings of the questions using the template in [`submission/template.csv`](.submission/template.csv).
+* save the file as `YOUR_STUDENT_ID.csv` and submit with your report.
