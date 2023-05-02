@@ -17,10 +17,10 @@
 
 ## Report template
 * Report must be a pdf file with filename `YOUR_STUDENT_ID.pdf`
-* Summary (maximum 250 words): provide a brief overview, including the problem statement, methodology, findings, and conclusions.
+* Summary (maximum 250 words): provide a brief overview, the problem statement, methodology, findings, and conclusions
 * Introduction: provide the background, define the problem, and state your objectives
 * Methods: provide technical details (preproprocessing data, models used, details of experiments, how to analyze the results). Include link to your Git repository.
 * Results: present findings (Use graphs or tables!)
 * Discussion: interpret your findings and discuss implications
-* Conclusion: summarize main findings, provide the main message, discuss future directions.
-* References: list of all the sources cited in the report.
+* Conclusion: summarize main findings, provide the main message, discuss future directions
+* References: list of all the sources cited in the report
